@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.main-content {
+  max-width: 58rem;
+}
+
+.main-content h2 {
+  margin-top: 2.5rem;
+}
+
+.main-content ul {
+  padding-left: 1.25rem;
+}
+
+.main-content li {
+  margin: 0.45rem 0;
+  line-height: 1.65;
+}
+
+.main-content li > ul {
+  margin-top: 0.35rem;
+}
+
+.main-content a {
+  font-weight: 600;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
