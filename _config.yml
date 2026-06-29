@@ -1,0 +1,8 @@
+title: My Study Summary
+description: 개발 공부 내용과 관련 저장소를 정리한 페이지입니다.
+lang: ko-KR
+theme: jekyll-theme-cayman
+show_downloads: false
+
+exclude:
+  - LICENSE
