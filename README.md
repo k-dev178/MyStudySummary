@@ -17,16 +17,15 @@
   - [Java 기초](https://github.com/k-dev178/Java_SELF_STUDY)
   - [Spring Boot](https://github.com/k-dev178/java_springboot)
 
-## Backend
+## Backend Beginner
 
-- 입문
-  - 언어 선택
-    - [Python](https://github.com/k-dev178/Python_Scrolling_SELF_STDUY)
-    - [Java](https://github.com/k-dev178/Java)
-  - Git / GitHub
-    - [개념 정리](https://github.com/k-dev178/git_sum)
-    - [실습 프로젝트](https://github.com/k-dev178/git_practice_file)
-- [Backend 소개](https://github.com/k-dev178/BR_Introduction)
+
+- 언어 선택
+  - [Python](https://github.com/k-dev178/Python_Scrolling_SELF_STDUY)
+  
+- Git / GitHub
+  - [개념 정리](https://github.com/k-dev178/git_sum)
+  - [실습 프로젝트](https://github.com/k-dev178/git_practice_file)
 
 ## DevOps
 
