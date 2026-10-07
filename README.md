@@ -1,35 +1,15 @@
 개발 공부 내용과 관련 저장소를 분야별로 정리했습니다.
 
-## Computer Science
-
-- 알고리즘
-- [자료구조](https://github.com/k-dev178/Data-Structure)
-- 컴퓨터구조
-- 운영체제
-- 데이터베이스
-- 네트워크
-
 ## Web
+<pre>
+  ├── <a href="https://github.com/k-dev178/Kokoa_clone">HTML/CSS</a>
+  ├── <a href="https://github.com/k-dev178/momentum">Javascript</a>
+  └── Python
+      ├── <a href="https://github.com/k-dev178/Python_Tutorial">내가 만든 강의 자료</a>
+      └── <a href="https://github.com/k-dev178/Python_Scrolling">파이썬 크롤링</a>
+          └── <a href="https://github.com/k-dev178/Python_Scrolling_BluePrints">BluePrints(정책상 비공개..)</a>
+</pre>
 
-- Python
-  - [Web Crawling](https://github.com/k-dev178/Python_Scrolling_SELF_STDUY)
-- Java
-  - [Java 기초](https://github.com/k-dev178/Java_SELF_STUDY)
-  - [Spring Boot](https://github.com/k-dev178/java_springboot)
-
-## Backend Beginner
-
-
-- 언어 선택
-  - [Python](https://github.com/k-dev178/Python_Scrolling_SELF_STDUY)
-  
-- Git / GitHub
-  - [개념 정리](https://github.com/k-dev178/git_sum)
-  - [실습 프로젝트](https://github.com/k-dev178/git_practice_file)
-
-## DevOps
-
-- Linux — 정리 예정
 
 ## Problem Solving
 
