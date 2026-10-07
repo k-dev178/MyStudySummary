@@ -3,9 +3,10 @@
 ## Web
 <pre>
   Web /
-  ├── <a href="https://github.com/k-dev178/Kokoa_clone">HTML/CSS</a>
-  ├── <a href="https://github.com/k-dev178/momentum">Javascript</a>
-  └── Python
+  ├── Frontend
+  │   ├── <a href="https://github.com/k-dev178/Kokoa_clone">HTML/CSS</a>
+  │   └── <a href="https://github.com/k-dev178/momentum">Javascript</a>
+  └── Backend
       ├── <a href="https://github.com/k-dev178/Python_Tutorial">내가 만든 강의 자료</a>
       └── <a href="https://github.com/k-dev178/Python_Scrolling">파이썬 크롤링</a>
           └── <a href="https://github.com/k-dev178/Python_Scrolling_BluePrints">BluePrints(정책상 비공개..)</a>
